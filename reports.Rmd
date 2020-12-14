@@ -1,0 +1,31 @@
+---
+title: "Reports"
+description: "Published and in-confidence reports from the Seeding Success project"
+---
+
+## Emergency department visits and hospital admissions for injury in children who participated in the Brighter Futures program: a population-based data linkage study
+
+### Cite this report: 
+Möller H, Hanly MJ, Jorm L, Falster K. (2017). Emergency department visits and hospital admissions for injury in children who participated in the Brighter Futures program: a population-based data linkage study. Sydney: UNSW Australia Centre for Big Data Research in Health.
+
+*** 
+
+## Early life pathways into child protection and child development outcomes at age five: Findings from a population-based data linkage study (The Seeding Success Study) 
+
+### Cite this report: 
+Falster, K and Hanly, MJ (2017). Early life pathways into child protection and child development outcomes at age five: Findings from a population-based data linkage study (The Seeding Success Study). _Their Futures Matter Analysis Report 1, September 2017 (In confidence report for NSW Government)._
+
+*** 
+
+## Early life health, development and pathways into child protection for children placed in residential care: Findings from a population-based data linkage study (The Seeding Success Study
+
+### Cite this report: 
+Hanly, MJ and Falster, K (2017). Early life health, development and pathways into child protection for children placed in residential care: Findings from a population-based data linkage study (The Seeding Success Study). _Their Futures Matter Analysis Report 2, October 2017 (In confidence report for NSW Government)._
+
+***
+
+## Child protection services involvement and developmental outcomes among Aboriginal and non-Aboriginal Kindergarten children in New South Wales in 2009 and 2012: Findings from a population-based, cross-sectoral data linkage study (The Seeding Success Study) 
+
+
+### Cite this report: 
+Hanly, MJ and Falster, K (2019). Child protection services involvement and developmental outcomes among Aboriginal and non-Aboriginal Kindergarten children in New South Wales in 2009 and 2012: Findings from a population-based, cross-sectoral data linkage study (The Seeding Success Study). _(In confidence report for the NSW Government-funded Independent Review into Aboriginal Children and Young People in Out-of-Home Care)._

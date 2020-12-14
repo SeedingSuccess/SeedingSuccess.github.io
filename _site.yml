@@ -1,0 +1,21 @@
+name: "SeedingSuccess"
+title: "Home"
+description: |
+  Seeding Success research outputs
+output_dir: "docs"
+navbar:
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Reports"
+      href: reports.html
+    - text: "Conference presentations"
+      href: presentations.html
+    - text: "Media"
+      href: media.html
+    - text: "Acknowledgements"
+      href: acknowledgements.html
+    - text: "Contact us"
+      href: contact.html
+output: 
+  distill::distill_article

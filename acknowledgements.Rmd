@@ -1,0 +1,13 @@
+---
+title: "Acknowledgements"
+description: "Acknowledgements from the investigator team"
+---
+
+### Investigator team
+The Seeding Success Study Investigator team comprised Louisa Jorm, Kathleen Falster, Sandra Eades, John Lynch, Emily Banks, Marni Brownell, Rhonda Craven, Kristjana Einarsdóttir, Deborah Randall, Sharon Goldfeld, Alastair Leyland, Elizabeth Best and Marilyn Chilvers.
+
+### Funding 
+The Seeding Success study was supported by an Australian National Health and Medical Research Council (NHMRC) Project Grant (#1061713).
+
+### Acknowledgements
+The investigators would like to thank the Australian Government Department of Education, the New South Wales (NSW) Ministry of Health, the NSW Register of Births, Deaths, and Marriages, the NSW Department of Education, and the NSW Department of Family and Community Services for allowing access to the data included in the Seeding Success study. We thank the NSW Centre for Health Record Linkage for linking the data sources in the study. We thank the Centre for Big Data Research in Health's Aboriginal and Torres Strait Islander Maternal and Child Reference Group for their contributions to discussions about the design, findings, and translation of this research.
