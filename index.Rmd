@@ -18,6 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](images/shutterstock_100379504.jpg)
 
 ## Overview
-The Seeding Success data resource was established to conduct child health and health equity research in Australia’s most populous state, New South Wales, with a focus on Aboriginal and Torres Strait Islander children and scope to investigate multiple dimensions of disadvantage.
+The Seeding Success study data resource was established to conduct child health and health equity research in Australia’s most populous state, New South Wales, with a focus on Aboriginal and Torres Strait Islander children and scope to investigate multiple dimensions of disadvantage.
 
-It is a unique resource comprising individual-level administrative data with comprehensive population coverage, routinely collected by several sectors (including health, education and community services), that have been linked together to construct the health and development trajectories of a large, population-based cohort of children from birth to school age.
+The data resource comprises individual-level administrative data with comprehensive population coverage, routinely collected by several sectors (including health, education and community services), that were linked together to construct the health and development trajectories of a large, population-based cohort of children from birth to school age. This webpage summarises research outputs from the Seeding Success study (2013-2021). 
