@@ -30,11 +30,19 @@ https://doi.org/10.1093/ije/dyx051
 #### Cite this article
 Hanly M, Falster K, Chambers G, Lynch J, Banks E, Homaira N, Brownell M, Eades S, Jorm L. Gestational age and child development at age five in a population‐based cohort of Australian Aboriginal and non‐aboriginal children. _Paediatric and Perinatal Epidemiology_. 2018 Jan;32(1):114-25.
 
+<aside>
+
+#### Commentary on this paper
+[Anderson PJ. Classifying High-risk Children Born Preterm. _Paediatric and Perinatal Epidemiology_. 2018 Jan;32(1)](https://onlinelibrary.wiley.com/doi/full/10.1111/ppe.12440)
+
+[Media links](/media.html#Maternal-age-and-offspring-developmental-vulnerability-at-age-five)
+</aside>
+
 #### DOI
 https://doi.org/10.1111/ppe.12426
 
-#### Commentary 
-[Anderson PJ. Classifying High-risk Children Born Preterm. _Paediatric and Perinatal Epidemiology_. 2018 Jan;32(1)](https://onlinelibrary.wiley.com/doi/full/10.1111/ppe.12440)
+
+
 
 *** 
 
@@ -53,11 +61,13 @@ https://doi.org/10.1371/journal.pmed.1002558
 #### Cite this article
 Hanly M, Edwards B, Goldfeld S, Craven RG, Mooney J, Jorm L, Falster K. School starting age and child development in a state-wide, population-level cohort of children in their first year of school in New South Wales, Australia. _Early Childhood Research Quarterly_. 2019 Jul 1;48:325-40.
 
+<aside>
+#### Companion piece on this article
+[Which families delay sending their child to school, and why? We crunched the numbers.](https://theconversation.com/which-families-delay-sending-their-child-to-school-and-why-we-crunched-the-numbers-111826) published in The Conversation on 9 April 2019.
+</aside>
+
 #### DOI
 https://doi.org/10.1016/j.ecresq.2019.01.008
-
-#### Companion piece
-[Which families delay sending their child to school, and why? We crunched the numbers.](https://theconversation.com/which-families-delay-sending-their-child-to-school-and-why-we-crunched-the-numbers-111826) published in The Conversation on 9 April 2019.
 
 ***
 
@@ -76,11 +86,17 @@ https://doi.org/10.1186/s12939-019-1019-x
 #### Cite this article 
 Hanly M, Falster K, Banks E, Lynch J, Chambers GM, Brownell M, Dillon A, Eades S, Jorm L. Role of maternal age at birth in child development among Indigenous and non-Indigenous Australian children in their first school year: a population-based cohort study. _The Lancet Child & Adolescent Health_. 2020 Jan 1;4(1):46-57.
 
+<aside>
+
+#### Commentary on this paper
+[Brown SJ. Disparities in outcomes for Indigenous children. _The Lancet Child & Adolescent Health_. 2020 Jan 1;4(1)](https://doi.org/10.1016/S2352-4642(19)30324-4)
+
+</aside>
+
 #### DOI
 https://doi.org/10.1016/S2352-4642(19)30334-7
 
-#### Commentary
-[Brown SJ. Disparities in outcomes for Indigenous children. _The Lancet Child & Adolescent Health_. 2020 Jan 1;4(1)](https://doi.org/10.1016/S2352-4642(19)30324-4)
+
 
 ***
 
@@ -99,9 +115,14 @@ https://doi.org/10.1001/jamapediatrics.2020.1151
 #### Cite this article
 Falster K, Hanly M, Edwards B, Banks E, Lynch JW, Eades S, Nickel N, Goldfeld S, Biddle N. Preschool attendance and developmental outcomes at age five in Indigenous and non-Indigenous children: a population-based cohort study of 100 357 Australian children. J Epidemiol Community Health. 2020 Dec 4.
 
+<aside>
+
+#### Companion piece on this article
+[Preschool benefits Indigenous children more than other types of early care](https://theconversation.com/preschool-benefits-indigenous-children-more-than-other-types-of-early-care-149724) published in The Conversation on 9 December 2020.
+
+</aside>
+
 #### DOI
 http://dx.doi.org/10.1136/jech-2020-214672
 
-#### Companion piece
-[Preschool benefits Indigenous children more than other types of early care](https://theconversation.com/preschool-benefits-indigenous-children-more-than-other-types-of-early-care-149724) published in The Conversation on 9 December 2020.
 
