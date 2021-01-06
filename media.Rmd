@@ -26,7 +26,7 @@ description: "Select media coverage of Seeding Success research"
 * [Sky News Australia (news clip)](https://www.skynews.com.au/details/_6024017146001)
 
 
-### Cumulative Incidence of Child Protection Services Involvement Before Age 5 Years
+### Cumulative Incidence of Child Protection Services Involvement
 
 [Published Manuscript](https://doi.org/10.1001/jamapediatrics.2020.1151)
 

@@ -35,14 +35,10 @@ Hanly M, Falster K, Chambers G, Lynch J, Banks E, Homaira N, Brownell M, Eades S
 #### Commentary on this paper
 [Anderson PJ. Classifying High-risk Children Born Preterm. _Paediatric and Perinatal Epidemiology_. 2018 Jan;32(1)](https://onlinelibrary.wiley.com/doi/full/10.1111/ppe.12440)
 
-[Media links](/media.html#Maternal-age-and-offspring-developmental-vulnerability-at-age-five)
 </aside>
 
 #### DOI
 https://doi.org/10.1111/ppe.12426
-
-
-
 
 *** 
 
@@ -50,6 +46,11 @@ https://doi.org/10.1111/ppe.12426
 
 #### Cite this article
 Falster K, Hanly M, Banks E, Lynch J, Chambers G, Brownell M, Eades S, Jorm L. Maternal age and offspring developmental vulnerability at age five: A population-based cohort study of Australian children. _PLoS Medicine_. 2018 Apr 24;15(4):e1002558.
+
+
+<aside>
+[Media coverage](/media.html#Maternal-age-and-offspring-developmental-vulnerability-at-age-five)
+</aside>
 
 #### DOI
 https://doi.org/10.1371/journal.pmed.1002558
@@ -68,6 +69,11 @@ Hanly M, Edwards B, Goldfeld S, Craven RG, Mooney J, Jorm L, Falster K. School s
 
 #### DOI
 https://doi.org/10.1016/j.ecresq.2019.01.008
+
+<aside>
+[Media coverage](/media.html#school-starting-age-and-child-development)
+</aside>
+
 
 ***
 
@@ -104,6 +110,10 @@ https://doi.org/10.1016/S2352-4642(19)30334-7
 
 #### Cite this article 
 Falster K, Hanly M, Pilkington R, Eades S, Stewart J, Jorm L, Lynch J. Cumulative Incidence of Child Protection Services Involvement Before Age 5 Years in 153 670 Australian Children. _JAMA Pediatrics_. 2020 Oct 1;174(10):995-7.
+
+<aside>
+[Media coverage](/media.html#cumulative-incidence-of-child-protection-services-involvement)
+</aside>
 
 #### DOI
 https://doi.org/10.1001/jamapediatrics.2020.1151
