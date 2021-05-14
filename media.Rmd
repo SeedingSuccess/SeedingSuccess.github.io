@@ -4,32 +4,32 @@ description: "Select media coverage of Seeding Success research"
 ---
 
 ### Maternal age and offspring developmental vulnerability at age five
-[Published manuscript](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002558)
+[Published manuscript](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002558){target="_blank"}
 
 #### Coverage
-* [newsGP (interview)](https://www.racgp.org.au/newsGP/Clinical/Children-born-to-youngest-mothers-at-increased-ris)
-* [Quartz (interview)](https://qz.com/1265866/this-is-the-least-risky-time-for-moms-to-have-kids-according-to-a-new-australian-study/)
+* [newsGP (interview)](https://www.racgp.org.au/newsGP/Clinical/Children-born-to-youngest-mothers-at-increased-ris){target="_blank"}
+* [Quartz (interview)](https://qz.com/1265866/this-is-the-least-risky-time-for-moms-to-have-kids-according-to-a-new-australian-study/){target="_blank"}
 
 *** 
 
 ### School starting age and child development
 
-[Published manuscript](https://doi.org/10.1016/j.ecresq.2019.01.008)
+[Published manuscript](https://doi.org/10.1016/j.ecresq.2019.01.008){target="_blank"}
 
 #### Coverage 
-* [Sydney Morning Herald](https://www.smh.com.au/education/a-gift-of-time-children-who-start-school-later-fare-better-study-finds-20190408-p51bw1.html)
+* [Sydney Morning Herald](https://www.smh.com.au/education/a-gift-of-time-children-who-start-school-later-fare-better-study-finds-20190408-p51bw1.html){target="_blank"}
 
-* [ABC Morning Radio](https://www.abc.net.au/radio/programs/am/one-in-four-nsw-families-delay-school-start-for-a-better-outcome/10983184)
+* [ABC Morning Radio](https://www.abc.net.au/radio/programs/am/one-in-four-nsw-families-delay-school-start-for-a-better-outcome/10983184){target="_blank"}
 
-* [UNSW newsroom](https://newsroom.unsw.edu.au/news/health/1-4-families-delay-their-child%E2%80%99s-school-entry-%E2%80%93-and-older-children-are-more-school-ready)
+* [UNSW newsroom](https://newsroom.unsw.edu.au/news/health/1-4-families-delay-their-child%E2%80%99s-school-entry-%E2%80%93-and-older-children-are-more-school-ready){target="_blank"}
 
-* [Sky News Australia (news clip)](https://www.skynews.com.au/details/_6024017146001)
+* [Sky News Australia (news clip)](https://www.skynews.com.au/details/_6024017146001){target="_blank"}
 
 
 ### Cumulative Incidence of Child Protection Services Involvement
 
-[Published Manuscript](https://doi.org/10.1001/jamapediatrics.2020.1151)
+[Published Manuscript](https://doi.org/10.1001/jamapediatrics.2020.1151){target="_blank"}
 
 #### Coverage 
-* [Sydney Morning Herald](https://www.smh.com.au/national/nsw/what-s-surprising-is-the-scale-of-the-problem-one-in-seven-children-at-risk-of-harm-by-five-years-old-20200618-p5541t.html)
+* [Sydney Morning Herald](https://www.smh.com.au/national/nsw/what-s-surprising-is-the-scale-of-the-problem-one-in-seven-children-at-risk-of-harm-by-five-years-old-20200618-p5541t.html){target="_blank"}
 

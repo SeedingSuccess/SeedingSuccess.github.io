@@ -2,22 +2,19 @@
 title: "Acknowledgements"
 ---
 
-
-
-### Funding 
+### Funding
 The Seeding Success study was supported by an Australian National Health and Medical Research Council (NHMRC) Project Grant #1061713, 2014-2017.
 
 Dr Kathleen Falster was supported by an NHMRC Early Career Fellowship (#1016475) and an NHMRC capacity building grant (#573122).
 
-In-confidence reports were commissioned by NSW Government, Family and Community Services.
+The report titled 'Emergency department visits and hospital admissions for injury in children who participated in the Brighter Futures program: a population-based data linkage study' was funded by a NSW Health NSW Office of Kids and Families Paediatric Injury Research Grant.
 
-### Study Personel
+In-confidence reports were commissioned by NSW Department of Family and Community Services.
 
-#### Collaborators 
-The following researchers contributed to published research from the Seeding Success study: Kathleen Falster, Louisa Jorm, Sandra Eades, John Lynch, Elizabeth Banks, Marni Brownell, Rhonda Craven, Kristjana Einarsdóttir, Deborah Randall, Mikaela Jorgensen, Mark Hanly, Holger M&ouml;ller, Sharon Goldfeld, Georgina Chambers, Nusrat Homaira, Ben Edwards, Janet Mooney, Anna Williamson, Alison Gibberd, Kathleen Clapham, Anthony Dillon, Rhiannon Pilkington, Jessica Stewart, Nathan Nickel, Nicholas Biddle.
+### Study Investigators and collaborators
 
-#### Investigator team
-The Seeding Success Study Investigator team for the NHMRC Grant (#1061713) comprised Louisa Jorm, Kathleen Falster, Sandra Eades, John Lynch, Emily Banks, Marni Brownell, Rhonda Craven, Kristjana Einarsdóttir, Deborah Randall, Sharon Goldfeld, Alastair Leyland, Elizabeth Best and Marilyn Chilvers.
+The Seeding Success Study Investigator team for the NHMRC Grant (#1061713) comprised Louisa Jorm, Kathleen Falster, Sandra Eades, John Lynch, Emily Banks, Marni Brownell, Rhonda Craven, Kristjana Einarsdóttir, Deborah Randall, Sharon Goldfeld, Alastair Leyland, Elizabeth Best and Marilyn Chilvers. Other researchers who have contributed to published research from the Seeding Success study include: Mark Hanly, Mikaela Jorgensen, Holger Möller, Sharon Goldfeld, Georgina Chambers, Nusrat Homaira, Ben Edwards, Janet Mooney, Anna Williamson, Alison Gibberd, Kathleen Clapham, Anthony Dillon, Rhiannon Pilkington, Jessica Stewart, Nathan Nickel, and Nicholas Biddle.
 
 ### Acknowledgements
-The investigators would like to thank the Australian Government Department of Education, the New South Wales (NSW) Ministry of Health, the NSW Register of Births, Deaths, and Marriages, the NSW Department of Education, and the NSW Department of Family and Community Services for allowing access to the data included in the Seeding Success study. We thank the NSW Centre for Health Record Linkage for linking the data sources in the study. We thank the Centre for Big Data Research in Health's Aboriginal and Torres Strait Islander Maternal and Child Reference Group for their contributions to discussions about the design, findings, and translation of this research.
+
+The Study Investigators would like to thank the Australian Government Department of Education, the New South Wales (NSW) Ministry of Health, the NSW Register of Births, Deaths, and Marriages, the NSW Department of Education, and the NSW Department of Family and Community Services for allowing access to the data included in the Seeding Success study. We thank the NSW Centre for Health Record Linkage for linking the data sources in the study. We thank staff from the NSW Ministry of Health, NSW Department of Family and Community Services and NSW Department of Education who supported this research in many ways, including technical discussions about the use and interpretation of data and the policy and practice relevance of the research. We also thank the Centre for Big Data Research in Health’s Aboriginal and Torres Strait Islander Maternal and Child Reference Group for their contributions to discussions about the design, findings, and translation of this research
