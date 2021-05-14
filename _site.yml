@@ -3,7 +3,7 @@ title: "Home"
 description: |
   Seeding Success research outputs
 base_url: https://seedingsuccess.github.io/
-preview: https://raw.githubusercontent.com/SeedingSuccess/SeedingSuccess.github.io/main/images/shutterstock_100379504.jpg
+preview: images/shutterstock_100379504.jpg
 output_dir: "docs"
 favicon: images/favicon.ico
 navbar:
