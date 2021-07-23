@@ -23,7 +23,7 @@ Lecturer | Seeding Successs lead statistican
 Centre for Big Data Research in Health, UNSW Sydney \
 T: +61 2 9385 3143 \
 E: m.hanly@unsw.edu.au \
-W: [https://cbdrh.med.unsw.edu.au/people/mr-mark-hanly](https://cbdrh.med.unsw.edu.au/people/mr-mark-hanly){target="_blank"}
+W: [https://cbdrh.med.unsw.edu.au/people/mr-mark-hanly](https://cbdrh.med.unsw.edu.au/people/dr-mark-hanly){target="_blank"}
 
 <aside>
 ![](images/mhanly.jpg){width=60%}

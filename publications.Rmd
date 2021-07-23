@@ -145,6 +145,10 @@ Hanly M, Falster K, Banks E, Lynch J, Chambers GM, Brownell M, Dillon A, Eades S
 Falster K, Hanly M, Pilkington R, Eades S, Stewart J, Jorm L, Lynch J. Cumulative Incidence of Child Protection Services Involvement Before Age 5 Years in 153 670 Australian Children. _JAMA Pediatrics_. 2020 Oct 1;174(10):995-7.
 
 <aside>
+
+#### Family and Community Services Insights, Analysis and Research (FACSIAR) Evidence to Action Note
+[Children involved with NSW child protection services before five years of age: What does the Seeding Success study tell us? - July 2021 - Evidence to Action Note](https://www.facs.nsw.gov.au/download?file=813838){target="_blank"}
+
 [Media coverage](/media.html#cumulative-incidence-of-child-protection-services-involvement){target="_blank"}
 </aside>
 
@@ -172,4 +176,16 @@ Falster K, Hanly M, Edwards B, Banks E, Lynch JW, Eades S, Nickel N, Goldfeld S,
 #### DOI
 [http://dx.doi.org/10.1136/jech-2020-214672](http://dx.doi.org/10.1136/jech-2020-214672){target="_blank"}
 
+***
 
+### Pregnancy and birth characteristics of Aboriginal twins in two Australian states: a data linkage study
+
+<aside>
+[![](images/gibberd-2021.png){width=200%}](https://doi.org/10.1186/s12884-021-03945-9){target="_blank"}
+</aside>
+
+#### Cite this article
+Gibberd AJ, Tyler J, Falster K, Preen DB, Hanly M, Clarke MJ, McNamara BJ, Eades SJ, Scurrah KJ Pregnancy and birth characteristics of Aboriginal twins in two Australian states: a data linkage study. _BMC Pregnancy and Childbirth_ 2021 Jun;21(1):1-13. 
+
+#### DOI
+[https://doi.org/10.1186/s12884-021-03945-9](https://doi.org/10.1186/s12884-021-03945-9){target="_blank"}
