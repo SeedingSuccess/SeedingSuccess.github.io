@@ -16,6 +16,8 @@ navbar:
       href: presentations.html
     - text: "Media"
       href: media.html
+    - text: "Webinar"
+      href: webinar.html
     - text: "Acknowledgements"
       href: acknowledgements.html
     - text: "Contact us"
